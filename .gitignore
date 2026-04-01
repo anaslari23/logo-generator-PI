@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.DS_Store
+*.DS_Store
+.claude/
+*.pyc
+
+# Ignore processed/temp images but keep static/index.html
+static/_in_*
+static/_out_*
